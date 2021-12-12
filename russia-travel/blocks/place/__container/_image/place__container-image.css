@@ -1,0 +1,10 @@
+.place__container-image {
+    display: flex;
+}
+
+@media screen and (max-width: 320px) {
+       
+    .place__container-image {
+        display: block;
+    }
+}
