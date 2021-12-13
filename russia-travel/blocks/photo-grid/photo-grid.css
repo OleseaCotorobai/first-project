@@ -2,8 +2,7 @@
     max-width: 1184px;
     
     display: grid;
-    margin-left: 48px;
-    margin-right: 48px;
+    margin: auto;
     margin-top: 92px;
     grid-template-columns: repeat(4, 1fr);
     grid-gap: 16px;
